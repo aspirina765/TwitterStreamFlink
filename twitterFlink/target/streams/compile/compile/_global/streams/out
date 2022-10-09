@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/rhel9dev/TwitterStreamFlink/twitterFlink/src/main/scala/com/github/example/kafka/KafkaProducer.scala:6:53: imported `KafkaProducer' is permanently hidden by definition of object KafkaProducer in package kafka[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.apache.kafka.clients.producer.{Callback, KafkaProducer, ProducerRecord, RecordMetadata}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were two deprecation warnings (since 7.0.0)[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were three deprecation warnings in total; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m
